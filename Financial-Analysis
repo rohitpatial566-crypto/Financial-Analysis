@@ -1,0 +1,16 @@
+The aim of this Finance Dashboard is to provide a comprehensive view of
+financial and transaction data, enabling users to monitor performance, identify trends, track key metrics, and 
+support data-driven business decisions through interactive visualizations.
+
+Tools & Technologies
+Power BI – Dashboard development and data visualization
+Power Query – Data cleaning and transformation
+DAX (Data Analysis Expressions) – Calculated measures and KPIs
+Data Modeling – Building relationships between datasets
+Key Insights
+Financial performance overview through key KPIs and metrics.
+Analysis of transaction trends over time.
+Identification of high-performing and low-performing categories.
+Monitoring of revenue, expenses, and profitability patterns.
+Interactive filtering and drill-down capabilities for detailed analysis.
+Data-driven insights to support strategic and operational decision-making.
